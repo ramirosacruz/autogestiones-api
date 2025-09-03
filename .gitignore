@@ -11,4 +11,5 @@ result/
 # Ignore environment variables
 .env
 
-api_results/
+api_results/*
+!.gitkeep
